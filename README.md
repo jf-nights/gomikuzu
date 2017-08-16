@@ -10,6 +10,9 @@ shijimi_neko
 soogi  
 kiku1031  
 MJ_1  
+I_Wanna_be_the_Noob  
+AMAMI_KZ  
+blue_maggot
 
 ----------------------
 水没カス
