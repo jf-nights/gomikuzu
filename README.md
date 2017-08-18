@@ -14,8 +14,8 @@ I_Wanna_be_the_Noob
 AMAMI_KZ  
 blue_maggot  
 Matton  
-Zz_anhduc_zZ
-
+Zz_anhduc_zZ  
+binhmuc
 ----------------------
 水没カス
 ----------------------
