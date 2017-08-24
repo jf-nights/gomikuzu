@@ -24,4 +24,6 @@ Zytine
 ----------------------
 水没カス
 ----------------------
-chatbot
+chatbot  
+asterales  
+
