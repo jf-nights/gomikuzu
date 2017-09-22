@@ -32,7 +32,9 @@ Honimaru
 peketa  
 Kirari_Moroboshi  
 only_one_day  
-syuba
+syuba  
+cho_ch  
+
 
 ----------------------
 水没カス
