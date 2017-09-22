@@ -30,8 +30,8 @@ belated_action
 BotDestroyer  
 Honimaru  
 peketa  
-Kirari_Moroboshi  
-
+Kirari_Moroboshi  
+only_one_day  
 
 
 ----------------------
