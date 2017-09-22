@@ -29,6 +29,9 @@ piyopu
 belated_action  
 BotDestroyer  
 Honimaru  
+peketa  
+Kirari_Moroboshi  
+
 
 
 ----------------------
