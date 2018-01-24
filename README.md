@@ -34,6 +34,10 @@ Kirari_Moroboshi  
 only_one_day  
 syuba  
 cho_ch  
+\_kyoshi2\_  
+mugibei  
+yahooo123  
+kabuka
 
 
 ----------------------
@@ -41,4 +45,4 @@ cho_ch
 ----------------------
 chatbot  
 asterales  
-
+wat_neeteen
