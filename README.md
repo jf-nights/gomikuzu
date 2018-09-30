@@ -30,16 +30,16 @@ belated_action
 BotDestroyer  
 Honimaru  
 peketa  
-Kirari_Moroboshi  
+Kirari_Moroboshi  
 only_one_day  
 syuba  
 cho_ch  
-\_kyoshi2\_  
 mugibei  
 yahooo123  
 kabuka  
 Tienkk  
 Jager_Master  
+uichan
 
 ----------------------
 水没カス
